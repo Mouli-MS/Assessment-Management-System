@@ -138,3 +138,12 @@ After successful auth, redirects to dashboard (/)
 Token stored in localStorage for session persistence
 
 Protected routes require valid JWT in Authorization: Bearer <token>
+
+**Screen Shots**
+
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/ab545070-838f-4fa6-9991-c515acb4a928" />
+
+
+
+<img width="1885" height="851" alt="image" src="https://github.com/user-attachments/assets/75ab8c80-f7b3-45b2-82f0-a80deae0ff2a" />
+
